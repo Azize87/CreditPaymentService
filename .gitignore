@@ -1,0 +1,5 @@
+# Игнорировать каталог 
+.idea/
+out/
+Credit Payment Service.iml
+
